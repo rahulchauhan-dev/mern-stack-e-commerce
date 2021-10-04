@@ -22,7 +22,7 @@ const Header = () => {
                 <Container id="navcontainer" className='fluid' >
                     <LinkContainer to='/'>
                         <Navbar.Brand><img
-                            src="/logo2.jpg"
+                            src="/Banners/logo2.jpg"
                             width="200"
                             height="60"
                             className="d-inline-block align-top"
